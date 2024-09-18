@@ -38,7 +38,7 @@ Bienvenido al repositorio de desarrollo de PharmaClick nuestra aplicacion movil 
 
 ![Paleta de Colores](https://i.imgur.com/QtYQurL.png)
 
-[📷 **Paleta de Colores **](https://drive.google.com/file/d/1xKxPw46159SazgJozc2NJ0j2w8z09MB3/view?usp=sharing)
+![Paleta de Colores](https://i.imgur.com/CtVQPI6.png)
 
 ## 📝 Archivos Importantes
 
