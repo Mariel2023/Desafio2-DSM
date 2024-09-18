@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "829196069557",
+    "firebase_url": "https://kotlin-firebase-e8164-default-rtdb.firebaseio.com",
+    "project_id": "kotlin-firebase-e8164",
+    "storage_bucket": "kotlin-firebase-e8164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829196069557:android:c4358e4cf272fa81992cfc",
+        "android_client_info": {
+          "package_name": "com.example.loginfirebase20082024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvgW3iTNg7Sh02oEpoEwGFPvCQqhCuKh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829196069557:android:b27403eb06d6a96d992cfc",
+        "android_client_info": {
+          "package_name": "com.example.pharmaclick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvgW3iTNg7Sh02oEpoEwGFPvCQqhCuKh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
