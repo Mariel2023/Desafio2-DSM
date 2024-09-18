@@ -34,7 +34,7 @@ Bienvenido al repositorio de desarrollo de PharmaClick nuestra aplicacion movil 
 
 ## 🎨 Icono y Paleta de Colores
 
-![Icono]("app/src/main/ic_launcher-playstore.png")
+![Icono](app/src/main/ic_launcher-playstore.png)
 
 ![Icono]("app/src/main/Paleta_de-Colores.png")
 
