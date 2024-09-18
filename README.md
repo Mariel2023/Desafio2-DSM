@@ -36,7 +36,7 @@ Bienvenido al repositorio de desarrollo de PharmaClick nuestra aplicacion movil 
 
 ![Icono](app/src/main/ic_launcher-playstore.png)
 
-[📷 **Paleta de Colores **](https://i.imgur.com/QtYQurL.png)
+![Paleta de Colores](https://i.imgur.com/QtYQurL.png)
 
 [📷 **Paleta de Colores **](https://drive.google.com/file/d/1xKxPw46159SazgJozc2NJ0j2w8z09MB3/view?usp=sharing)
 
